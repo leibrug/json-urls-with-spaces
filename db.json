@@ -1,0 +1,8 @@
+{
+  'as_object_key': 'http://example.com/with space.html',
+  'as_object_key_encoded': 'htpp://example.com/with%20space%20encoded.html',
+  'as_array_value': [
+    'http://example.com/with space.html',
+    'http://example.com/with%20space%20encoded.html'
+  ]
+}
